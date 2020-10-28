@@ -284,11 +284,11 @@ Add the version of `solc` you want to use into `index.html`:
 ```html
 <script
   type="text/javascript"
-  src="https://solc-bin.ethereum.org/bin/{{ SOLC VERSION }}.js"
+  src="https://solc-bin.kapoio.org/bin/{{ SOLC VERSION }}.js"
 ></script>
 ```
 
-(Alternatively use `https://solc-bin.ethereum.org/bin/soljson-latest.js` to get the latests version.)
+(Alternatively use `https://solc-bin.kapoio.org/bin/soljson-latest.js` to get the latests version.)
 
 This will load `solc` into the global variable `window.Module`. Then use this inside Javascript as:
 
@@ -309,7 +309,7 @@ Alternatively, to iterate the releases, one can load `list.js` from `solc-bin`:
 ```html
 <script
   type="text/javascript"
-  src="https://solc-bin.ethereum.org/bin/list.js"
+  src="https://solc-bin.kapoio.org/bin/list.js"
 ></script>
 ```
 
