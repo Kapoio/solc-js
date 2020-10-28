@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethereum/solc-js.git"
+    "url": "git+https://github.com/Kapoio/solc-js.git"
   },
   "keywords": [
-    "ethereum",
+    "kapoio",
     "solidity",
     "compiler"
   ],
@@ -40,9 +40,9 @@
   "author": "chriseth",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ethereum/solc-js/issues"
+    "url": "https://github.com/Kapoio/solc-js/issues"
   },
-  "homepage": "https://github.com/ethereum/solc-js#readme",
+  "homepage": "https://github.com/Kapoio/solc-js#readme",
   "dependencies": {
     "command-exists": "^1.2.8",
     "commander": "3.0.2",
